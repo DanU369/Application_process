@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block page_title %}
+    Add Applicant Form
+{% endblock %}
+
+{% block content %}
+
+    <form action="" method="POST">
+
+    <label for="first-name">First Name: </label>
+    <input id="first-name" type="text" name="first-name" >
+<br>
+    <label for="last-name">Last Name: </label>
+    <input id="last-name" type="text" name="last-name" >
+<br>
+    <label for="phone-number">Phone Number: </label>
+    <input id="phone-number" type="text" name="phone-number" >
+<br>
+    <label for="email">Email: </label>
+    <input id="email" type="text" name="email" >
+<br>
+    <button type="submit">Submit</button>
+    </form>
+<br>
+{% include 'footer.html' %}
+{% endblock %}

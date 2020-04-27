@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% block page_title %}
+    Applicant Update Form
+{% endblock %}
+
+{% block content %}
+
+
+
+    <div id="applicants">
+        {% for applicant in applicants %}
+            <p>ID: {{ applicant.id }}</p>
+
+            <p>First Name: {{ applicant.first_name }}</p>
+
+            <p>Last Name: {{ applicant.last_name }}</p>
+
+            <form action="" method="POST">
+            <label for="new-phone">Phone Number: </label>
+            <input id="new-phone" type="text" name="new-phone" value="{{ applicant.phone_number }}">
+            <button type="submit">Change</button>
+            </form>
+
+            <p>Email: {{ applicant.email }}</p>
+            <p>Application Code : {{ applicant.application_code }}</p>
+            <button onclick="location.href='/applicants/{{ application_code }}/delete'" type="button">Delete this Applicant</button>
+
+        {% endfor %}
+    </div>
+
+<br><br>
+{% include 'footer.html' %}
+{% endblock %}

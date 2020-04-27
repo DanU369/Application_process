@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="634f45fa-5d64-49c2-9edb-1f60f7093228" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aplication_proces@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aplication_proces@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aplication_proces@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="aplication_proces: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aplication_proces@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="aplication_proces: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aplication_proces@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="aplication_proces: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aplication_proces@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="aplication_proces: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1auFLuGSfMx6gkDNkSJxVsB7UvJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled2" type="Python.FlaskServer">
+      <module name="untitled2" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PSQL_USER_NAME" value="dan" />
+        <env name="PSQL_PASSWORD" value="codecool" />
+        <env name="PSQL_HOST" value="localhost" />
+        <env name="PSQL_DB_NAME" value="aplication_proces" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13621533" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="aplication_proces@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="aplication_proces@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6c829562" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="634f45fa-5d64-49c2-9edb-1f60f7093228" name="Default Changelist" comment="" />
+      <created>1587577518417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587577518417</updated>
+      <workItem from="1587577530119" duration="2215000" />
+      <workItem from="1587641963602" duration="31542000" />
+      <workItem from="1587749376653" duration="11426000" />
+      <workItem from="1587815719192" duration="3364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="58" width="800" height="677" key="#SQL_Dialects" timestamp="1587653046747">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state x="304" y="58" width="800" height="677" key="#SQL_Dialects/59.27.1301.741@59.27.1301.741" timestamp="1587653046747" />
+    <state x="260" y="53" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587654239726">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state x="260" y="53" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1301.741@59.27.1301.741" timestamp="1587654239726" />
+    <state x="392" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587728317447">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state x="392" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/59.27.1301.741@59.27.1301.741" timestamp="1587728317447" />
+    <state x="812" y="176" width="515" height="444" key="EnvironmentVariablesDialog" timestamp="1587654236958">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state x="812" y="176" width="515" height="444" key="EnvironmentVariablesDialog/59.27.1301.741@59.27.1301.741" timestamp="1587654236958" />
+    <state x="492" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587650953412">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state x="492" y="154" width="424" height="484" key="FileChooserDialogImpl/59.27.1301.741@59.27.1301.741" timestamp="1587650953412" />
+    <state width="1255" height="175" key="GridCell.Tab.0.bottom" timestamp="1587819086826">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.bottom/59.27.1301.741@59.27.1301.741" timestamp="1587819086826" />
+    <state width="1255" height="175" key="GridCell.Tab.0.center" timestamp="1587819086825">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.center/59.27.1301.741@59.27.1301.741" timestamp="1587819086825" />
+    <state width="1255" height="175" key="GridCell.Tab.0.left" timestamp="1587819086824">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.left/59.27.1301.741@59.27.1301.741" timestamp="1587819086824" />
+    <state width="1255" height="175" key="GridCell.Tab.0.right" timestamp="1587819086826">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.right/59.27.1301.741@59.27.1301.741" timestamp="1587819086826" />
+    <state x="365" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1587815717018">
+      <screen x="59" y="27" width="1301" height="741" />
+    </state>
+    <state x="365" y="224" key="com.intellij.ide.util.TipDialog/59.27.1301.741@59.27.1301.741" timestamp="1587815717018" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled2$untitled2.coverage" NAME="untitled2 Coverage Results" MODIFIED="1587818877284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

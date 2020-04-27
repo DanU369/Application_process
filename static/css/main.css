@@ -1,0 +1,17 @@
+body {
+    background-color: #008e9d;
+    color: white;
+}
+
+.content-wrapper {
+    padding: 10%;
+}
+
+header {color: chartreuse;
+}
+
+footer {background-color: black;
+}
+
+p {padding-block: revert;
+}

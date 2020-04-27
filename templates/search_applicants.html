@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block page_title %}
+    Applicants found
+{% endblock %}
+
+{% block content %}
+
+    <div id="applicants">
+        {% for applicant in applicants %}
+            <p>Name: {{ applicant.first_name+' '+applicant.last_name }}, PhoneNumber: {{ applicant.phone_number }}</p><br>
+        {% endfor %}
+    </div>
+
+{% include 'footer.html' %}
+{% endblock %}
